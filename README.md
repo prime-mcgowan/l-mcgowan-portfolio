@@ -14,6 +14,10 @@ In order to clearly communicate with the user and capture their attention I desi
 
 This is a Full Stack CRUD React Application.
 
+## Technologies used:
+
+- [![JavaScript Badge](https://flat.badgen.net/badge/Language/JavaScript/yellow)](https://www.javascript.com/) -[![React Badge](https://flat.badgen.net/badge/Library/React/blue)](https://reactjs.org/)
+
 ## Features
 
 - Navigation: The application includes a navigation bar that allows users to easily switch between different pages.
