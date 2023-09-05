@@ -505,7 +505,8 @@ hr {
   font-size: 68px;
   font-weight: 700;
   letter-spacing: 0.3px;
-  margin-bottom: 29px;
+  /* margin-bottom: 29px; */
+  margin-top: 600px;
 }
 
 .home-area .home-headline {
