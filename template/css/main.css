@@ -497,24 +497,24 @@ hr {
 }
 
 .home-area:before {
-  background-color: rgba(0, 0, 0, 0.68);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 .home-area .home-name {
   color: #fff;
-  font-size: 68px;
+  font-size: 100px;
   font-weight: 700;
-  letter-spacing: 0.3px;
-  /* margin-bottom: 29px; */
-  margin-top: 600px;
+  letter-spacing: 4px;
+  margin-bottom: 0px;
+  margin-top: 840px;
 }
 
 .home-area .home-headline {
   color: #fff;
-  font-size: 32px;
+  font-size: 40px;
   font-weight: 400;
-  letter-spacing: 0.3px;
-  margin-bottom: 0;
+  letter-spacing: 3px;
+  margin-bottom: 100;
 }
 
 .home-area .home-headline .single-headline {
