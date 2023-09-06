@@ -1,9 +1,0 @@
-command = "npm run build"
-
-package = "@netlify/plugin-funtions"
-    node_bundler = "esbuild"
-
-package = "netlify/build-plugin-inline-files"
-    copyFiles = [
-        {from = "/template/pdf/resume.pdf, to = dist/resume.pdf"}
-    ]
